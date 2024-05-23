@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/0aa23c7f060e0919e52cf.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/9319dc81ef3c11dbdd9bd.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
     </p>
-    <h1 align="center">Vin - MD</h1>
+    <h1 align="center">༄ᶦᶰᵈRezaXdツ</h1>
 
 ## BACA DULU SEBELUM PAKAI ##
 - Ubah Informasi di Config.js

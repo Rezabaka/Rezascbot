@@ -33,8 +33,8 @@
 
 
 ##
-[![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BkdLVSrEZa4EviQ7COGnpT) 
-[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283150418588)
+[![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Cl0cnaYcNbuDfh22QOu3bA) 
+[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285724700472)
 
 
 RZA×BOT BY ༄ᶦᶰᵈRezaXdツ
